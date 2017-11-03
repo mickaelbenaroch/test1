@@ -1,0 +1,19 @@
+header{
+	width:1280px;
+	height: 62px;
+	background-color: #1b1e26;
+}
+
+main{
+	width:1280px;
+	height: 1203px;
+}
+img{
+	display:block;
+	margin:auto;
+}
+footer{
+	width:1280px;
+	height: 226px;
+	background: url(../images/footerPhoto.jpg);
+}
